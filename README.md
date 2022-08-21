@@ -1,1 +1,1 @@
-- [Etch-a-Sketch](https://github.com/abhay-vats/javascript-etch-a-sketch)
+- Etch-a-Sketch: [Code](https://github.com/abhay-vats/javascript-etch-a-sketch) | [Live](https://abhay-vats.github.io/javascript-etch-a-sketch)

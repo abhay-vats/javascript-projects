@@ -9,3 +9,4 @@
 | Sarcastic Text Generator | [Code](https://github.com/abhay-vats/js-sarcastic-text) | [Live](https://abhay-vats.github.io/js-sarcastic-text)
 | Shopping Form | [Code](https://github.com/abhay-vats/js-shopping-form) | [Live](https://abhay-vats.github.io/js-shopping-form)
 | Image Gallery | [Code](https://github.com/abhay-vats/js-gallery) | [Live](https://abhay-vats.github.io/js-gallery)
+| Dad Jokes | [Code](https://github.com/abhay-vats/js-dad-jokes) | [Live](https://abhay-vats.github.io/js-dad-jokes)
